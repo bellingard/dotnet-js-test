@@ -1,4 +1,2 @@
-dotnet-js-test
+Sample .NET project
 ==============
-
-.NET and JS tests
