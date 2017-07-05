@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <config>
-  <some_fake_config>Blah</some_fake_config>
+  <foo>bar</foo>
 </config>
